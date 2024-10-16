@@ -2,7 +2,7 @@
 
 ALUNOS:     Gustavo Nascimento Rodrigues E Isaque Sérgio da Silva
 
-Nome: PROLIFE
+Nome do Projeto: PROLIFE
 
 Descrição do Projeto:
 APP informativo de atividades fisicas e nutricionismo onde o usuário pode se informar sobre habitos saudáveis.
