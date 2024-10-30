@@ -11,7 +11,7 @@ APP informativo de atividades fisicas e nutricionismo onde o usuário pode se in
 O aplicativo vai fornecer através de um sensor a contagem de passos do usuário, para o caso de uma caminhada ou de uma corrida.
 
 
-Bem como o app vai enviar o usuario para uma página que possa informá-lo melhor em programas do governo sobre saúde fisica e mental.
+Bem como o app vai enviar o usuario para sites com artigos especializados sobre saúde fisica e mental e nutricional.
 
 WIKI:
 1- PÁGINA INICIAL
