@@ -12,3 +12,10 @@ O aplicativo vai fornecer através de um sensor a contagem de passos do usuário
 
 
 Bem como o app vai enviar o usuario para uma página que possa informá-lo melhor em programas do governo sobre saúde fisica e mental.
+
+WIKI:
+1- PÁGINA INICIAL
+2-CONTADOR DE PASSOS
+3- ARTIGOS
+4-TREINOS
+5- USUARIO
